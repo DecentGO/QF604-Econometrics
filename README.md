@@ -1,2 +1,3 @@
 # QF604-Econometrics
-Consolidated Lectures and Homeworks, together with research projects
+* Consolidated Lectures and Homeworks
+* Research project: published journal replication
