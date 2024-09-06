@@ -1,5 +1,5 @@
 # QF604-Econometrics
-* Consolidated Lectures and Homeworks
+* Consolidated Lectures and Homeworks (`GPEX1set1.csv` omitted due to size limit)
 * Research project: published journal replication
 ### Topics covered:
 1. Hedging
